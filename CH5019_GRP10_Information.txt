@@ -1,0 +1,9 @@
+This is the submission of Group 10 for the course CH5019 - "Mathematical Foundations of Data Science", conducted in the Jan-May 2020 Semester at IIT Madras by Prof. Raghunathan Rengaswamy.
+
+The details of the members that are part of this group and worked on this project are:
+
+ME17B140 - Naveen Reddy;
+ME17B153 - Miheer Athalye;
+ME17B158 - Omkar Nath;
+ME17B170 - Uma T.V.;
+ME17B183 - Ishan Naryani;
