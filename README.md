@@ -7,6 +7,6 @@ Analyzed the spread of Covid-19, and impact of lockdown using Exploratory Data A
 <br>
 Prediction of Reactor Failure under given conditions using Logistic Regression in Python.
 
-Course conducted at IIT Madras - Jan 2020 to May 2020
+Course conducted at IIT Madras - Jan 2020 to May 2020.
 
 
